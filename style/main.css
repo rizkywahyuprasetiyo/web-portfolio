@@ -164,6 +164,46 @@ section.project {
   padding: 24px 20px 38px 20px;
   font-weight: 700;
   font-size: 24px;
+  color: #353535;
 }
 
-/* end project */ ;
+/* end project */
+
+/* hubungi saya */
+
+section.cta {
+  margin-top: 92px;
+  background-color: #b3cef8;
+}
+
+.cta .container-cta {
+  width: 80%;
+  margin: 0 auto;
+  padding: 68px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.cta h4 {
+  color: #353535;
+  font-weight: 700;
+  font-size: 24px;
+}
+
+.cta a {
+  text-decoration: none;
+  background-color: #3281ff;
+  color: #f2f2f2;
+  font-size: 18px;
+  font-weight: 600;
+  padding: 12px 24px;
+  border-radius: 10px;
+}
+
+.cta a:hover {
+  background-color: #307bf2;
+  box-shadow: 0 6px 18px #89afec;
+}
+
+/* end hubungi saya */
